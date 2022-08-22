@@ -10,14 +10,14 @@
 
 ***
 
-*blocks*
+*libraries of my resume*
 
-* header
-* main
-* footer
+* atropos.js
+* tiny_slider.js
+* parallax.js
 
-```$npm start```
+```test```
 
 > _something cool about me_
 
-**this question is bold**
+**i hope, that you liked this resume**
