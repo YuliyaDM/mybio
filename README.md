@@ -6,7 +6,7 @@
 
 ~~beginner~~
 
-![alt text](https://i.kym-cdn.com/photos/images/original/002/056/485/108)
+![alt text](https://static.wikia.nocookie.net/undertale/images/0/0b/Annoying_Dog_sprite.gif/revision/latest/top-crop/width/360/height/360?cb=20160125092850)
 
 ***
 
