@@ -4,9 +4,9 @@
 
 ---
 
-~~beginner~~
-
 ![alt text](https://static.wikia.nocookie.net/undertale/images/0/0b/Annoying_Dog_sprite.gif/revision/latest/top-crop/width/360/height/360?cb=20160125092850)
+
+~~beginner~~
 
 ***
 
