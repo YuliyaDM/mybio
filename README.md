@@ -18,9 +18,6 @@
 
 ```$npm start```
 
-> something
+> _something cool about me_
 
 **this question is bold**
-
-_italic_
-| text-align left | text-align center | text-align right |
